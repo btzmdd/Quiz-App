@@ -1,0 +1,14 @@
+@font-face {
+  font-family: Cubano;
+  src: url(fonts/Cubano.ttf);
+}
+body{
+  height: 100vh;
+  background-image: linear-gradient(#d8c7ff, #006eff);
+  font-family: 'Cubano';
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+
